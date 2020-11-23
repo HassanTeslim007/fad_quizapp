@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="18" viewBox="0 0 54 18">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="54" height="18" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Time_Style" data-name="Time Style" clip-path="url(#clip-path)">
+    <text id="_Time" data-name="↳ Time" fill="#153243" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0em"><tspan x="13.673" y="16">9:41</tspan></text>
+  </g>
+</svg>

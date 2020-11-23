@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75.043" height="71" viewBox="0 0 75.043 71">
+  <g id="Group_774" data-name="Group 774" transform="translate(-172 -388.005)">
+    <g id="Ellipse_128" data-name="Ellipse 128" transform="translate(176 408.005)" fill="#ecaa4b" stroke="#ecaa4b" stroke-width="0.4">
+      <circle cx="3" cy="3" r="3" stroke="none"/>
+      <circle cx="3" cy="3" r="2.8" fill="none"/>
+    </g>
+    <g id="Ellipse_129" data-name="Ellipse 129" transform="translate(235 401.005)" fill="#ecaa4b" stroke="#ecaa4b" stroke-width="0.4">
+      <ellipse cx="3" cy="3.5" rx="3" ry="3.5" stroke="none"/>
+      <ellipse cx="3" cy="3.5" rx="2.8" ry="3.3" fill="none"/>
+    </g>
+    <g id="Group_185" data-name="Group 185" transform="translate(172 387.666)">
+      <g id="Ellipse_124" data-name="Ellipse 124" transform="translate(24 0.339)" fill="none" stroke="#ecaa4b" stroke-width="2">
+        <ellipse cx="14" cy="35.5" rx="14" ry="35.5" stroke="none"/>
+        <ellipse cx="14" cy="35.5" rx="13" ry="34.5" fill="none"/>
+      </g>
+      <g id="Ellipse_125" data-name="Ellipse 125" transform="translate(61.589 5.989) rotate(60)" fill="none" stroke="#ecaa4b" stroke-width="2">
+        <ellipse cx="13.454" cy="35.558" rx="13.454" ry="35.558" stroke="none"/>
+        <ellipse cx="13.454" cy="35.558" rx="12.454" ry="34.558" fill="none"/>
+      </g>
+      <g id="Ellipse_126" data-name="Ellipse 126" transform="translate(0 29.293) rotate(-60)" fill="none" stroke="#ecaa4b" stroke-width="2">
+        <ellipse cx="13.454" cy="35.558" rx="13.454" ry="35.558" stroke="none"/>
+        <ellipse cx="13.454" cy="35.558" rx="12.454" ry="34.558" fill="none"/>
+      </g>
+      <g id="Ellipse_127" data-name="Ellipse 127" transform="translate(32 28.339)" fill="none" stroke="#ecaa4b" stroke-width="1">
+        <circle cx="6" cy="6" r="6" stroke="none"/>
+        <circle cx="6" cy="6" r="5.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

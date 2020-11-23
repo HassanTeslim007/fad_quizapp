@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+  <g id="Group_776" data-name="Group 776" transform="translate(2182.474 2254.474)">
+    <g id="Rectangle_1103" data-name="Rectangle 1103" transform="translate(-2165.474 -2251.474)" fill="none" stroke="#5baeab" stroke-width="1">
+      <rect width="33" height="32" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="32" height="31" rx="1.5" fill="none"/>
+    </g>
+    <g id="Rectangle_1105" data-name="Rectangle 1105" transform="translate(-2145.474 -2217.474)" fill="none" stroke="#5baeab" stroke-width="1">
+      <rect width="33" height="33" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="32" height="32" rx="1.5" fill="none"/>
+    </g>
+    <g id="Rectangle_1104" data-name="Rectangle 1104" transform="translate(-2182.474 -2217.474)" fill="none" stroke="#5baeab" stroke-width="1">
+      <rect width="33" height="33" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="32" height="32" rx="1.5" fill="none"/>
+    </g>
+    <text id="B" transform="translate(-2174.474 -2191.474)" fill="#296d6a" font-size="24" font-family="ComicSansMS, Comic Sans MS"><tspan x="0" y="0">B</tspan></text>
+    <text id="C" transform="translate(-2136.474 -2191.474)" fill="#296d6a" font-size="24" font-family="ComicSansMS, Comic Sans MS"><tspan x="0" y="0">C</tspan></text>
+    <text id="A" transform="translate(-2159.474 -2228.474)" fill="#296d6a" font-size="24" font-family="ComicSansMS, Comic Sans MS"><tspan x="0" y="0">A</tspan></text>
+  </g>
+</svg>

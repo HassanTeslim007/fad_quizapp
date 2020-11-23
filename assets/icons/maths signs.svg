@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="53" viewBox="0 0 54 53">
+  <g id="Group_775" data-name="Group 775" transform="translate(2349.5 2025.5)">
+    <g id="Group_183" data-name="Group 183" transform="translate(-2349 -2026)">
+      <g id="Group_281" data-name="Group 281">
+        <g id="Group_182" data-name="Group 182">
+          <g id="Rectangle_1102" data-name="Rectangle 1102" transform="translate(-0.5 0.5)" fill="none" stroke="#c74222" stroke-width="1.5">
+            <rect width="54" height="53" rx="3" stroke="none"/>
+            <rect x="0.75" y="0.75" width="52.5" height="51.5" rx="2.25" fill="none"/>
+          </g>
+          <g id="Group_181" data-name="Group 181" transform="translate(8.121 8.121)">
+            <g id="Group_175" data-name="Group 175" transform="translate(2.2)">
+              <line id="Line_3" data-name="Line 3" y2="10.761" transform="translate(5.381)" fill="none" stroke="#c74222" stroke-linecap="round" stroke-width="1.5"/>
+              <line id="Line_4" data-name="Line 4" x2="10.761" transform="translate(0 5.381)" fill="none" stroke="#c74222" stroke-linecap="round" stroke-width="1.5"/>
+            </g>
+            <g id="Group_177" data-name="Group 177" transform="translate(8.244 20.944) rotate(50)">
+              <line id="Line_3-2" data-name="Line 3" y2="10.761" transform="translate(5.381 0)" fill="none" stroke="#c74222" stroke-linecap="round" stroke-width="1.5"/>
+              <line id="Line_4-2" data-name="Line 4" x2="10.761" transform="translate(0 5.381)" fill="none" stroke="#c74222" stroke-linecap="round" stroke-width="1.5"/>
+            </g>
+            <g id="Group_176" data-name="Group 176" transform="translate(24.89 5.236)">
+              <line id="Line_4-3" data-name="Line 4" x2="10.761" fill="none" stroke="#c74222" stroke-linecap="round" stroke-width="1.5"/>
+            </g>
+            <g id="Group_180" data-name="Group 180" transform="translate(24.89 24.435)">
+              <g id="Group_178" data-name="Group 178">
+                <line id="Line_4-4" data-name="Line 4" x2="10.761" fill="none" stroke="#c74222" stroke-linecap="round" stroke-width="1.5"/>
+              </g>
+              <g id="Group_179" data-name="Group 179" transform="translate(0 6.981)">
+                <line id="Line_4-5" data-name="Line 4" x2="10.761" fill="none" stroke="#c74222" stroke-linecap="round" stroke-width="1.5"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

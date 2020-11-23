@@ -1,3 +1,5 @@
+import 'package:fad_quizapp/Screens/account/account.dart';
+import 'package:fad_quizapp/Screens/levels/levels.dart';
 import 'package:fad_quizapp/constants.dart';
 import 'package:flutter/material.dart';
 import 'package:fad_quizapp/Screens/Welcome/welcome_screen.dart';
